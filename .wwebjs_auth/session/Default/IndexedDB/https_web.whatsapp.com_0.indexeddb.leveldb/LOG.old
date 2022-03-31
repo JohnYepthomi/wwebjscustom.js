@@ -1,0 +1,15 @@
+2022/03/29-15:56:41.077 800d Reusing MANIFEST /home/cocdingarcade/Documents/whatsappweb github/node_modules/whatsapp-web.js/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/03/29-15:56:41.077 800d Recovering log #25
+2022/03/29-15:56:44.583 800d Reusing old log /home/cocdingarcade/Documents/whatsappweb github/node_modules/whatsapp-web.js/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000025.log 
+2022/03/29-15:56:51.246 8013 Level-0 table #31: started
+2022/03/29-15:56:51.388 8013 Level-0 table #31: 1116943 bytes OK
+2022/03/29-15:56:51.425 8013 Delete type=0 #25
+2022/03/29-15:56:51.728 7fdd Compacting 1@1 + 2@2 files
+2022/03/29-15:56:51.999 7fdd Generated table #32@1: 25906 keys, 2231149 bytes
+2022/03/29-15:56:52.314 7fdd Generated table #33@1: 34521 keys, 2208853 bytes
+2022/03/29-15:56:52.419 7fdd Generated table #34@1: 15285 keys, 337142 bytes
+2022/03/29-15:56:52.420 7fdd Compacted 1@1 + 2@2 files => 4777144 bytes
+2022/03/29-15:56:52.452 7fdd compacted to: files[ 0 0 3 0 0 0 0 ]
+2022/03/29-15:56:52.453 7fdd Delete type=2 #27
+2022/03/29-15:56:52.453 7fdd Delete type=2 #28
+2022/03/29-15:56:52.453 7fdd Delete type=2 #31
