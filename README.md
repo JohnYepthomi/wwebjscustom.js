@@ -10,4 +10,4 @@ puppeteer: {
         args: ['--no-sandbox','--disable-setuid-sandbox']
         }
 ```
-- What's important here is to specify the value for the `args` option as shown above with headless always set to `true`. The rest of the options can be set to your requriements.
+- What's **important** here is to specify the **value** for the `args` **option** as shown above with the `headless` **mode** always set to `true`. The rest of the options can be set to your requriements.
