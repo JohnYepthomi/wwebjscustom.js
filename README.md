@@ -1,5 +1,10 @@
 # This solves the issue of running Puppeteer On ubuntu server (tried on Heroku)
 
+### RUNNING PUPPETEER ON HEROKU REQUIRES A BUILD PACK.
+- You can install the buildpack to your heroku Dyno by using the following command
+` $ heroku buildpacks:add jontewks/puppeteer `
+- Visit [Puppeteer buildpack git repo](https://github.com/jontewks/puppeteer-heroku-buildpack) forf more details.
+
 ### Even with the headless mode set to `true` , the program crashes because it cannot execute the chrome browser.
  So, in order to solve that issue, make the below changes to your puppeteer set up.
 
